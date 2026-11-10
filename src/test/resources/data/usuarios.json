@@ -1,0 +1,17 @@
+
+{
+  "defaultUser": {
+    "name": "QA Automation User",
+    "password": "QaTest123!",
+    "administrator": "false"
+  },
+  "updatedUser": {
+    "name": "QA PUT User Updated",
+    "password": "QaTest123!"
+  },
+  "invalidData": {
+    "invalidEmail": "asadasdsa",
+    "emptyEmail": "",
+    "emptyAdministrator": ""
+  }
+}
